@@ -16,5 +16,5 @@ A simple Python to-do list that runs in your terminal. Tasks are saved to a file
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/todo-cli-app.git
+git clone https://github.com/llDanieLll/todo-cli-app.git
 cd todo-cli-app
